@@ -1,0 +1,21 @@
+.gemunu
+    {
+        font-family: 'Gemunu Libre', sans-serif;
+        font-size: 25px;
+    }
+
+.gemunubis
+    {
+        font-family: 'Gemunu Libre', sans-serif;
+        font-size: 35px;
+    }
+
+.size
+    {
+        font-size: 25px;
+    }
+
+.lighting:hover
+    {
+        background-color: rgb(43, 94, 32);
+    }
